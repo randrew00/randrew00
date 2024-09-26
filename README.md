@@ -23,7 +23,3 @@ Current master's student at Bowling Green State University. Studying Computer Sc
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/randrew00" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/randrew00"><img src="https://github-readme-stats.vercel.app/api?username=randrew00&show_icons=true&hide=contribs&count_private=true&title_color=64748b&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="randrew00's GitHub stats" /></a>
