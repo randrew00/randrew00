@@ -6,7 +6,7 @@ Current master's student at Bowling Green State University. Studying Computer Sc
 * 🌍  I'm based in Bowling Green, Ohio
 * ✉️  You can contact me at [asymond@bgsu.edu](mailto:asymond@bgsu.edu)
 * 🚀  I'm currently working on [srcDiff](http://srcdiff.github.io/)
-* 🧠  I'm learning Rust, Java - JUnit, TestNG
+* 🧠  I'm learning Rust, SQL, Java - JUnit, TestNG
 * 🤝  I'm open to collaborating on Anything!
 
 ### Skills
